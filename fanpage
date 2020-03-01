@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang= "en">
+    <head>
+        <link rel="shortcut icon"
+        type="image/png"
+        href="https://i2.wp.com/teaganssandbox.com/wp-content/uploads/2017/05/heart-favicon.png?ssl=1">
+
+
+        <meta charset="UTF8" />
+        <title> Taylor Swift Fan Page</title>
+    </head>
+
+<body>
+    <h1> <center>Welcome to the Taylor Swift Fan Page!</center></h1><br>
+    <img src ="https://api.time.com/wp-content/uploads/2019/04/taylor-swift-time-100-2019-082.jpg?quality=85&zoom=0" alt = "Taylor Swift">
+    <h2> Upcoming concerts & events: </h2> 
+    <ul> Seattle, WA<br>San Francisco, CA<br>Phoenix, AZ</ul>
+    <h3> Follow Taylor on Social Media:
+    <a href="https://www.instagram.com/taylorswift/?hl=en" target="_blank"><br>Instagram</a></h3>
+    
+</body>
+    
+</body>
+<h1>Biography</h1></html>
+    <p>Taylor Alison Swift is an American singer-songwriter. She is known for narrative songs about her personal life, which have received widespread media coverage. At age 14, Swift became the youngest artist signed by the Sony/ATV Music publishing house and, at age 15, she signed her first record deal.</p>
+
+    <p>Having sold more than 50 million albums—including 37 million in the US, Swift is one of the world's best-selling music artists and the highest-earning female musician of the 2010s. She has won 10 Grammy Awards, a Brit Award, an Emmy Award, six Guinness world records and is the most-awarded act at the American Music Awards with 29 wins, and most-awarded woman at the Billboard Music Awards with 23 wins. As a songwriter, Swift has been honored by the Songwriters Hall of Fame and was included in Rolling Stone's 100 Greatest Songwriters of All Time list in 2015. She appeared in Time's list of the 100 most influential people in the world in 2010, 2015 and 2019 and was ranked first in the Forbes Celebrity 100 in 2016 and 2019. In 2019, Swift placed at number eight on Billboard's list of greatest artists of all time—the highest for an act that debuted in the 21st century—and was named Woman of the Decade by the magazine and Artist of the Decade by the American Music Awards.</p>
+    <h2>Number 1 Hit:</h2>
+    <p><iframe width="560" height="315" src="https://www.youtube.com/embed/nfWlot6h_JM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+
+    <h2>Total Awards:</h2>
+    <table>
+        <tr><th>Awards & Nominations:</th></tr>
+        <tr>
+            <td>Wins</td><td>312</td>
+        </tr>
+        <tr>
+        <td>Nominations</td><td>736</td></tr>
+        <tr>
+            <td>Pending</td> <td>14</td>
+        </tr>
+
+    </table>
